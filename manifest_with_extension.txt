@@ -1,0 +1,9 @@
+Zhaonella_formicivorans.faa
+Zhongshania_aliphaticivorans.faa
+Zhouia_spongiae.faa
+Zobellella_denitrificans.faa
+Zobellia_galactanivorans.faa
+Zophobihabitans_entericus.faa
+Zunongwangia_profunda_SM-A87.faa
+Zymobacter_palmae.faa
+Zymomonas_mobilis_subsp._mobilis_str._CP4_NRRL_B-14023.faa
