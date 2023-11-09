@@ -26,7 +26,6 @@ find -name '*.faa' -exec cp -t ./collected_orf_outputs/ {} +
 Make another manifest where the names are exactly captured
 ls collected_orf_outputs/ >> manifest_with_extension.txt
 
-
 # Step 3: construct kofam_scan "ko_list" to genes of interest
 Navigate into kofam directory
 Based on steps at : https://taylorreiter.github.io/2019-05-11-kofamscan/
@@ -53,6 +52,10 @@ decompress files <br>
 Trim ko_list to ko's of interest named "ko_list_curated"<br>
 Note that the "ko_list_curated" included in this git iteration are the MEP and MVA relevant genes
 
+Copy ko's of interest into their own folder called "profiles_curated" <br>
+This can be done in a single line by navigating into profiles/ and executing <br>
+cp $(grep -o -P '.{0,1}K.{5}' ../ko_list_curated | sed 's/$/.hmm/') ../profiles_curated/
+
 In kofam_scan-VERSION edit config.yml file to reflect path to profile database and ko_list<br>
 note that name must be changed to config.yml, it should not be config-template.yml<br>
 config.yml should look like this:<br>
@@ -60,7 +63,7 @@ config.yml should look like this:<br>
 #Path to your KO-HMM database
 #A database can be a .hmm file, a .hal file or a directory in which<br>
 #.hmm files are. Omit the extension if it is .hal or .hmm file<br>
-profile: ../profiles<br>
+profile: ../profiles_curated<br>
 
 #Path to the KO list file<br>
 ko_list: ../ko_list_curated<br>
@@ -70,6 +73,16 @@ Navigate into kofam/kofam_scan-VERSION<br>
 
 run bash script that iteratively runs kofamscan over orf files for KO's of interest:<br>
 "bash mass_run_kofam_scan.sh"
+
+If the program is erroring out because it is looking for profiles you are not interested in (ie. not on your ko_list_curated) then try emptying the tmp folder. 
+
+# Step 5: Pull info from the output_files folder into a single file.
+Navigate to the main folder, then run the R script that will catch genes if they have a score that exceeds the Kegg defined cutoff for identifying orthologs. Or, use the R script that will catch the gene with the lowest E-value. The results will be captured in evolutionary_flexibility/results/ <br>
+
+"Rscript catch_KO_threshold.R" <br>
+"Rscript catch_min_escore.R" <br>
+
+Note, that these scripts will fail if there is an empty file. To fix this, note the name of the empty file, then remove it from the "output_files" folder
 
 
 
