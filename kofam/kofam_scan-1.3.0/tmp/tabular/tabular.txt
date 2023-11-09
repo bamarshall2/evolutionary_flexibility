@@ -1,0 +1,460 @@
+K00021
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/profiles_curated/K00021.hmm
+# Target file:     ../../extracted_orfs/collected_orf_outputs/Zymomonas_mobilis_subsp._mobilis_str._CP4_NRRL_B-14023.faa
+# Option settings: hmmsearch -o /dev/null --tblout ./tmp/tabular/K00021 -T 0 --cpu 1 /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/profiles_curated/K00021.hmm ../../extracted_orfs/collected_orf_outputs/Zymomonas_mobilis_subsp._mobilis_str._CP4_NRRL_B-14023.faa 
+# Current dir:     /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/kofam_scan-1.3.0
+# Date:            Thu Nov  9 11:34:23 2023
+# [ok]
+
+K00054
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/profiles_curated/K00054.hmm
+# Target file:     ../../extracted_orfs/collected_orf_outputs/Zymomonas_mobilis_subsp._mobilis_str._CP4_NRRL_B-14023.faa
+# Option settings: hmmsearch -o /dev/null --tblout ./tmp/tabular/K00054 -T 0 --cpu 1 /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/profiles_curated/K00054.hmm ../../extracted_orfs/collected_orf_outputs/Zymomonas_mobilis_subsp._mobilis_str._CP4_NRRL_B-14023.faa 
+# Current dir:     /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/kofam_scan-1.3.0
+# Date:            Thu Nov  9 11:34:23 2023
+# [ok]
+
+K00099
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+NC_022900.1_ORF.3431 -          K00099               -           6.2e-178  592.2   0.7  6.9e-178  592.0   0.7   1.0   1   0   0   1   1   1   1 [205694-206996](+) type:complete length:1302 frame:3 start:CTG stop:TGA
+NC_022900.1_ORF.1820 -          K00099               -              0.085   10.9   0.0     0.085   10.9   0.0   1.0   1   0   0   1   1   1   0 [240355-240526](+) type:complete length:171 frame:2 start:TTG stop:TAA
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/profiles_curated/K00099.hmm
+# Target file:     ../../extracted_orfs/collected_orf_outputs/Zymomonas_mobilis_subsp._mobilis_str._CP4_NRRL_B-14023.faa
+# Option settings: hmmsearch -o /dev/null --tblout ./tmp/tabular/K00099 -T 0 --cpu 1 /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/profiles_curated/K00099.hmm ../../extracted_orfs/collected_orf_outputs/Zymomonas_mobilis_subsp._mobilis_str._CP4_NRRL_B-14023.faa 
+# Current dir:     /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/kofam_scan-1.3.0
+# Date:            Thu Nov  9 11:34:23 2023
+# [ok]
+
+K00626
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+NC_022900.1_ORF.64   -          K00626               -            1.7e-13   49.4   2.4   6.9e-07   27.6   0.7   2.2   2   0   0   2   2   2   2 [70656-71952](+) type:complete length:1296 frame:1 start:ATG stop:TAA
+NC_022900.1_ORF.4481 -          K00626               -            1.3e-08   33.3   2.7   4.8e-08   31.4   2.5   1.8   1   1   0   1   1   1   1 [1450952-1451921](+) type:complete length:969 frame:3 start:ATG stop:TAG
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/profiles_curated/K00626.hmm
+# Target file:     ../../extracted_orfs/collected_orf_outputs/Zymomonas_mobilis_subsp._mobilis_str._CP4_NRRL_B-14023.faa
+# Option settings: hmmsearch -o /dev/null --tblout ./tmp/tabular/K00626 -T 0 --cpu 1 /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/profiles_curated/K00626.hmm ../../extracted_orfs/collected_orf_outputs/Zymomonas_mobilis_subsp._mobilis_str._CP4_NRRL_B-14023.faa 
+# Current dir:     /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/kofam_scan-1.3.0
+# Date:            Thu Nov  9 11:34:23 2023
+# [ok]
+
+K00869
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/profiles_curated/K00869.hmm
+# Target file:     ../../extracted_orfs/collected_orf_outputs/Zymomonas_mobilis_subsp._mobilis_str._CP4_NRRL_B-14023.faa
+# Option settings: hmmsearch -o /dev/null --tblout ./tmp/tabular/K00869 -T 0 --cpu 1 /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/profiles_curated/K00869.hmm ../../extracted_orfs/collected_orf_outputs/Zymomonas_mobilis_subsp._mobilis_str._CP4_NRRL_B-14023.faa 
+# Current dir:     /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/kofam_scan-1.3.0
+# Date:            Thu Nov  9 11:34:23 2023
+# [ok]
+
+K00919
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+NC_022900.1_ORF.143  -          K00919               -            4.8e-68  229.1   0.0   5.3e-68  228.9   0.0   1.0   1   0   0   1   1   1   1 [173361-174168](+) type:complete length:807 frame:1 start:CTG stop:TGA
+NC_022900.1_ORF.3826 -          K00919               -               0.01   14.2   0.0     0.016   13.5   0.0   1.2   1   0   0   1   1   1   0 [670961-671783](+) type:complete length:822 frame:3 start:TTG stop:TGA
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/profiles_curated/K00919.hmm
+# Target file:     ../../extracted_orfs/collected_orf_outputs/Zymomonas_mobilis_subsp._mobilis_str._CP4_NRRL_B-14023.faa
+# Option settings: hmmsearch -o /dev/null --tblout ./tmp/tabular/K00919 -T 0 --cpu 1 /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/profiles_curated/K00919.hmm ../../extracted_orfs/collected_orf_outputs/Zymomonas_mobilis_subsp._mobilis_str._CP4_NRRL_B-14023.faa 
+# Current dir:     /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/kofam_scan-1.3.0
+# Date:            Thu Nov  9 11:34:23 2023
+# [ok]
+
+K00938
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/profiles_curated/K00938.hmm
+# Target file:     ../../extracted_orfs/collected_orf_outputs/Zymomonas_mobilis_subsp._mobilis_str._CP4_NRRL_B-14023.faa
+# Option settings: hmmsearch -o /dev/null --tblout ./tmp/tabular/K00938 -T 0 --cpu 1 /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/profiles_curated/K00938.hmm ../../extracted_orfs/collected_orf_outputs/Zymomonas_mobilis_subsp._mobilis_str._CP4_NRRL_B-14023.faa 
+# Current dir:     /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/kofam_scan-1.3.0
+# Date:            Thu Nov  9 11:34:23 2023
+# [ok]
+
+K00991
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+NC_022900.1_ORF.7772 -          K00991               -            5.8e-68  228.8   3.0   7.4e-68  228.5   3.0   1.1   1   0   0   1   1   1   1 [229341-230499](-) type:complete length:1158 frame:-2 start:ATG stop:TAA
+NC_022900.1_ORF.8708 -          K00991               -            3.3e-58  196.7   0.0   3.9e-58  196.5   0.0   1.1   1   0   0   1   1   1   1 [1017740-1019081](-) type:complete length:1341 frame:-3 start:ATG stop:TAA
+NC_022900.1_ORF.7324 -          K00991               -            4.7e-14   51.4   0.6   7.1e-14   50.8   0.6   1.2   1   0   0   1   1   1   1 [872928-874311](-) type:complete length:1383 frame:-2 start:ATG stop:TAA
+NC_022900.1_ORF.1834 -          K00991               -            2.5e-10   39.2   0.0   3.4e-10   38.7   0.0   1.2   1   0   0   1   1   1   1 [258451-259210](+) type:complete length:759 frame:2 start:ATG stop:TAA
+NC_022900.1_ORF.1308 -          K00991               -            3.4e-06   25.5   0.0   4.4e-06   25.2   0.0   1.1   1   0   0   1   1   1   1 [1575360-1576224](+) type:complete length:864 frame:1 start:ATG stop:TAA
+NC_022900.1_ORF.4829 -          K00991               -            9.5e-05   20.8   0.3   0.00011   20.5   0.3   1.1   1   0   0   1   1   1   1 [1867946-1868744](+) type:complete length:798 frame:3 start:ATG stop:TAA
+NC_022900.1_ORF.96   -          K00991               -            0.00047   18.5   0.0   0.00069   17.9   0.0   1.3   1   0   0   1   1   1   1 [108384-109794](+) type:complete length:1410 frame:1 start:ATG stop:TAA
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/profiles_curated/K00991.hmm
+# Target file:     ../../extracted_orfs/collected_orf_outputs/Zymomonas_mobilis_subsp._mobilis_str._CP4_NRRL_B-14023.faa
+# Option settings: hmmsearch -o /dev/null --tblout ./tmp/tabular/K00991 -T 0 --cpu 1 /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/profiles_curated/K00991.hmm ../../extracted_orfs/collected_orf_outputs/Zymomonas_mobilis_subsp._mobilis_str._CP4_NRRL_B-14023.faa 
+# Current dir:     /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/kofam_scan-1.3.0
+# Date:            Thu Nov  9 11:34:23 2023
+# [ok]
+
+K01597
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/profiles_curated/K01597.hmm
+# Target file:     ../../extracted_orfs/collected_orf_outputs/Zymomonas_mobilis_subsp._mobilis_str._CP4_NRRL_B-14023.faa
+# Option settings: hmmsearch -o /dev/null --tblout ./tmp/tabular/K01597 -T 0 --cpu 1 /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/profiles_curated/K01597.hmm ../../extracted_orfs/collected_orf_outputs/Zymomonas_mobilis_subsp._mobilis_str._CP4_NRRL_B-14023.faa 
+# Current dir:     /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/kofam_scan-1.3.0
+# Date:            Thu Nov  9 11:34:23 2023
+# [ok]
+
+K01641
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+NC_022900.1_ORF.4481 -          K01641               -              5e-12   44.6   0.6   5.9e-12   44.4   0.6   1.2   1   0   0   1   1   1   1 [1450952-1451921](+) type:complete length:969 frame:3 start:ATG stop:TAG
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/profiles_curated/K01641.hmm
+# Target file:     ../../extracted_orfs/collected_orf_outputs/Zymomonas_mobilis_subsp._mobilis_str._CP4_NRRL_B-14023.faa
+# Option settings: hmmsearch -o /dev/null --tblout ./tmp/tabular/K01641 -T 0 --cpu 1 /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/profiles_curated/K01641.hmm ../../extracted_orfs/collected_orf_outputs/Zymomonas_mobilis_subsp._mobilis_str._CP4_NRRL_B-14023.faa 
+# Current dir:     /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/kofam_scan-1.3.0
+# Date:            Thu Nov  9 11:34:23 2023
+# [ok]
+
+K01662
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+NC_022900.1_ORF.6651 -          K01662               -             9e-292  968.9   0.1  1.1e-291  968.6   0.1   1.0   1   0   0   1   1   1   1 [1747131-1749111](-) type:complete length:1980 frame:-2 start:ATG stop:TGA
+NC_022900.1_ORF.95   -          K01662               -           4.5e-291  966.6   0.1  5.3e-291  966.4   0.1   1.0   1   0   0   1   1   1   1 [106383-108330](+) type:complete length:1947 frame:1 start:ATG stop:TAA
+NC_022900.1_ORF.4729 -          K01662               -            7.8e-27   93.0   0.1   9.8e-27   92.7   0.1   1.1   1   0   0   1   1   1   1 [1737599-1738985](+) type:complete length:1386 frame:3 start:ATG stop:TAA
+NC_022900.1_ORF.8574 -          K01662               -            5.1e-24   83.7   0.1   2.6e-19   68.2   0.0   3.4   1   1   1   2   2   2   2 [1208513-1210559](-) type:complete length:2046 frame:-3 start:CTG stop:TAA
+NC_022900.1_ORF.3047 -          K01662               -            9.1e-05   20.1   0.6   0.00017   19.2   0.4   1.5   2   0   0   2   2   2   1 [1736515-1737595](+) type:complete length:1080 frame:2 start:TTG stop:TGA
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/profiles_curated/K01662.hmm
+# Target file:     ../../extracted_orfs/collected_orf_outputs/Zymomonas_mobilis_subsp._mobilis_str._CP4_NRRL_B-14023.faa
+# Option settings: hmmsearch -o /dev/null --tblout ./tmp/tabular/K01662 -T 0 --cpu 1 /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/profiles_curated/K01662.hmm ../../extracted_orfs/collected_orf_outputs/Zymomonas_mobilis_subsp._mobilis_str._CP4_NRRL_B-14023.faa 
+# Current dir:     /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/kofam_scan-1.3.0
+# Date:            Thu Nov  9 11:34:24 2023
+# [ok]
+
+K01767
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+NC_022900.1_ORF.96   -          K01767               -            0.00019   20.4   0.0   0.00043   19.3   0.0   1.5   1   0   0   1   1   1   1 [108384-109794](+) type:complete length:1410 frame:1 start:ATG stop:TAA
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/profiles_curated/K01767.hmm
+# Target file:     ../../extracted_orfs/collected_orf_outputs/Zymomonas_mobilis_subsp._mobilis_str._CP4_NRRL_B-14023.faa
+# Option settings: hmmsearch -o /dev/null --tblout ./tmp/tabular/K01767 -T 0 --cpu 1 /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/profiles_curated/K01767.hmm ../../extracted_orfs/collected_orf_outputs/Zymomonas_mobilis_subsp._mobilis_str._CP4_NRRL_B-14023.faa 
+# Current dir:     /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/kofam_scan-1.3.0
+# Date:            Thu Nov  9 11:34:23 2023
+# [ok]
+
+K01770
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+NC_022900.1_ORF.7772 -          K01770               -            1.6e-73  246.6   0.7   2.2e-73  246.1   0.7   1.2   1   0   0   1   1   1   1 [229341-230499](-) type:complete length:1158 frame:-2 start:ATG stop:TAA
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/profiles_curated/K01770.hmm
+# Target file:     ../../extracted_orfs/collected_orf_outputs/Zymomonas_mobilis_subsp._mobilis_str._CP4_NRRL_B-14023.faa
+# Option settings: hmmsearch -o /dev/null --tblout ./tmp/tabular/K01770 -T 0 --cpu 1 /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/profiles_curated/K01770.hmm ../../extracted_orfs/collected_orf_outputs/Zymomonas_mobilis_subsp._mobilis_str._CP4_NRRL_B-14023.faa 
+# Current dir:     /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/kofam_scan-1.3.0
+# Date:            Thu Nov  9 11:34:23 2023
+# [ok]
+
+K01823
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+NC_022900.1_ORF.6609 -          K01823               -             0.0033   16.4   0.0     0.004   16.1   0.0   1.1   1   0   0   1   1   1   1 [1792995-1793460](-) type:complete length:465 frame:-2 start:ATG stop:TAA
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/profiles_curated/K01823.hmm
+# Target file:     ../../extracted_orfs/collected_orf_outputs/Zymomonas_mobilis_subsp._mobilis_str._CP4_NRRL_B-14023.faa
+# Option settings: hmmsearch -o /dev/null --tblout ./tmp/tabular/K01823 -T 0 --cpu 1 /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/profiles_curated/K01823.hmm ../../extracted_orfs/collected_orf_outputs/Zymomonas_mobilis_subsp._mobilis_str._CP4_NRRL_B-14023.faa 
+# Current dir:     /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/kofam_scan-1.3.0
+# Date:            Thu Nov  9 11:34:23 2023
+# [ok]
+
+K03186
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+NC_022900.1_ORF.6320 -          K03186               -             0.0071   14.9   0.3     0.017   13.6   0.1   1.6   2   0   0   2   2   2   1 [161926-163177](-) type:complete length:1251 frame:-1 start:ATG stop:TAA
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/profiles_curated/K03186.hmm
+# Target file:     ../../extracted_orfs/collected_orf_outputs/Zymomonas_mobilis_subsp._mobilis_str._CP4_NRRL_B-14023.faa
+# Option settings: hmmsearch -o /dev/null --tblout ./tmp/tabular/K03186 -T 0 --cpu 1 /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/profiles_curated/K03186.hmm ../../extracted_orfs/collected_orf_outputs/Zymomonas_mobilis_subsp._mobilis_str._CP4_NRRL_B-14023.faa 
+# Current dir:     /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/kofam_scan-1.3.0
+# Date:            Thu Nov  9 11:34:23 2023
+# [ok]
+
+K03526
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+NC_022900.1_ORF.2625 -          K03526               -           1.1e-163  544.6   4.6  1.3e-163  544.5   4.6   1.0   1   0   0   1   1   1   1 [1203274-1204411](+) type:complete length:1137 frame:2 start:CTG stop:TAA
+NC_022900.1_ORF.1150 -          K03526               -              0.058   11.2   0.0     0.058   11.2   0.0   1.1   1   0   0   1   1   1   0 [1358490-1360200](+) type:complete length:1710 frame:1 start:ATG stop:TAA
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/profiles_curated/K03526.hmm
+# Target file:     ../../extracted_orfs/collected_orf_outputs/Zymomonas_mobilis_subsp._mobilis_str._CP4_NRRL_B-14023.faa
+# Option settings: hmmsearch -o /dev/null --tblout ./tmp/tabular/K03526 -T 0 --cpu 1 /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/profiles_curated/K03526.hmm ../../extracted_orfs/collected_orf_outputs/Zymomonas_mobilis_subsp._mobilis_str._CP4_NRRL_B-14023.faa 
+# Current dir:     /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/kofam_scan-1.3.0
+# Date:            Thu Nov  9 11:34:24 2023
+# [ok]
+
+K03527
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+NC_022900.1_ORF.379  -          K03527               -           1.7e-143  478.7   1.9  2.1e-143  478.3   1.9   1.0   1   0   0   1   1   1   1 [488700-489726](+) type:complete length:1026 frame:1 start:CTG stop:TGA
+NC_022900.1_ORF.8312 -          K03527               -            2.5e-17   62.1   0.0   6.9e-06   24.3   0.0   3.3   1   1   2   3   3   3   3 [1545011-1546715](-) type:complete length:1704 frame:-3 start:ATG stop:TAG
+NC_022900.1_ORF.676  -          K03527               -            3.3e-07   28.7   0.3   5.4e-07   27.9   0.3   1.3   1   0   0   1   1   1   1 [824976-827220](+) type:complete length:2244 frame:1 start:ATG stop:TAA
+NC_022900.1_ORF.5282 -          K03527               -            0.00064   17.8   0.0   0.00076   17.6   0.0   1.1   1   0   0   1   1   1   1 [1546984-1547614](-) type:complete length:630 frame:-1 start:ATG stop:TGA
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/profiles_curated/K03527.hmm
+# Target file:     ../../extracted_orfs/collected_orf_outputs/Zymomonas_mobilis_subsp._mobilis_str._CP4_NRRL_B-14023.faa
+# Option settings: hmmsearch -o /dev/null --tblout ./tmp/tabular/K03527 -T 0 --cpu 1 /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/profiles_curated/K03527.hmm ../../extracted_orfs/collected_orf_outputs/Zymomonas_mobilis_subsp._mobilis_str._CP4_NRRL_B-14023.faa 
+# Current dir:     /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/kofam_scan-1.3.0
+# Date:            Thu Nov  9 11:34:24 2023
+# [ok]
+
+K06981
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+NC_022900.1_ORF.2602 -          K06981               -            1.5e-14   52.9   0.2   5.3e-14   51.1   0.2   1.7   1   1   0   1   1   1   1 [1170196-1171387](+) type:complete length:1191 frame:2 start:ATG stop:TGA
+NC_022900.1_ORF.1542 -          K06981               -            7.3e-09   34.2   2.9   1.2e-08   33.5   2.9   1.4   1   1   0   1   1   1   1 [1863666-1864575](+) type:complete length:909 frame:1 start:CTG stop:TAA
+NC_022900.1_ORF.4680 -          K06981               -            1.6e-05   23.2   0.1   4.5e-05   21.7   0.1   1.8   1   0   0   1   1   1   1 [1683854-1685156](+) type:complete length:1302 frame:3 start:CTG stop:TGA
+NC_022900.1_ORF.159  -          K06981               -            2.5e-05   22.6   0.1      0.18    9.9   0.0   2.9   2   1   0   2   2   2   2 [203172-203904](+) type:complete length:732 frame:1 start:TTG stop:TAA
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/profiles_curated/K06981.hmm
+# Target file:     ../../extracted_orfs/collected_orf_outputs/Zymomonas_mobilis_subsp._mobilis_str._CP4_NRRL_B-14023.faa
+# Option settings: hmmsearch -o /dev/null --tblout ./tmp/tabular/K06981 -T 0 --cpu 1 /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/profiles_curated/K06981.hmm ../../extracted_orfs/collected_orf_outputs/Zymomonas_mobilis_subsp._mobilis_str._CP4_NRRL_B-14023.faa 
+# Current dir:     /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/kofam_scan-1.3.0
+# Date:            Thu Nov  9 11:34:24 2023
+# [ok]
+
+K09128
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/profiles_curated/K09128.hmm
+# Target file:     ../../extracted_orfs/collected_orf_outputs/Zymomonas_mobilis_subsp._mobilis_str._CP4_NRRL_B-14023.faa
+# Option settings: hmmsearch -o /dev/null --tblout ./tmp/tabular/K09128 -T 0 --cpu 1 /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/profiles_curated/K09128.hmm ../../extracted_orfs/collected_orf_outputs/Zymomonas_mobilis_subsp._mobilis_str._CP4_NRRL_B-14023.faa 
+# Current dir:     /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/kofam_scan-1.3.0
+# Date:            Thu Nov  9 11:34:23 2023
+# [ok]
+
+K12506
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+NC_022900.1_ORF.7772 -          K12506               -           4.9e-150  499.4   7.2  5.8e-150  499.2   7.2   1.0   1   0   0   1   1   1   1 [229341-230499](-) type:complete length:1158 frame:-2 start:ATG stop:TAA
+NC_022900.1_ORF.8708 -          K12506               -            2.3e-47  161.1   0.0   2.9e-47  160.7   0.0   1.1   1   0   0   1   1   1   1 [1017740-1019081](-) type:complete length:1341 frame:-3 start:ATG stop:TAA
+NC_022900.1_ORF.7324 -          K12506               -            4.4e-12   44.8   0.1   7.1e-12   44.1   0.1   1.2   1   0   0   1   1   1   1 [872928-874311](-) type:complete length:1383 frame:-2 start:ATG stop:TAA
+NC_022900.1_ORF.1834 -          K12506               -            3.2e-07   28.7   0.0   3.6e-07   28.6   0.0   1.2   1   0   0   1   1   1   1 [258451-259210](+) type:complete length:759 frame:2 start:ATG stop:TAA
+NC_022900.1_ORF.1308 -          K12506               -             0.0005   18.2   0.0   0.00065   17.9   0.0   1.1   1   0   0   1   1   1   1 [1575360-1576224](+) type:complete length:864 frame:1 start:ATG stop:TAA
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/profiles_curated/K12506.hmm
+# Target file:     ../../extracted_orfs/collected_orf_outputs/Zymomonas_mobilis_subsp._mobilis_str._CP4_NRRL_B-14023.faa
+# Option settings: hmmsearch -o /dev/null --tblout ./tmp/tabular/K12506 -T 0 --cpu 1 /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/profiles_curated/K12506.hmm ../../extracted_orfs/collected_orf_outputs/Zymomonas_mobilis_subsp._mobilis_str._CP4_NRRL_B-14023.faa 
+# Current dir:     /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/kofam_scan-1.3.0
+# Date:            Thu Nov  9 11:34:24 2023
+# [ok]
+
+K13273
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/profiles_curated/K13273.hmm
+# Target file:     ../../extracted_orfs/collected_orf_outputs/Zymomonas_mobilis_subsp._mobilis_str._CP4_NRRL_B-14023.faa
+# Option settings: hmmsearch -o /dev/null --tblout ./tmp/tabular/K13273 -T 0 --cpu 1 /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/profiles_curated/K13273.hmm ../../extracted_orfs/collected_orf_outputs/Zymomonas_mobilis_subsp._mobilis_str._CP4_NRRL_B-14023.faa 
+# Current dir:     /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/kofam_scan-1.3.0
+# Date:            Thu Nov  9 11:34:24 2023
+# [ok]
+
+K17942
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/profiles_curated/K17942.hmm
+# Target file:     ../../extracted_orfs/collected_orf_outputs/Zymomonas_mobilis_subsp._mobilis_str._CP4_NRRL_B-14023.faa
+# Option settings: hmmsearch -o /dev/null --tblout ./tmp/tabular/K17942 -T 0 --cpu 1 /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/profiles_curated/K17942.hmm ../../extracted_orfs/collected_orf_outputs/Zymomonas_mobilis_subsp._mobilis_str._CP4_NRRL_B-14023.faa 
+# Current dir:     /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/kofam_scan-1.3.0
+# Date:            Thu Nov  9 11:34:24 2023
+# [ok]
+
+K18689
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/profiles_curated/K18689.hmm
+# Target file:     ../../extracted_orfs/collected_orf_outputs/Zymomonas_mobilis_subsp._mobilis_str._CP4_NRRL_B-14023.faa
+# Option settings: hmmsearch -o /dev/null --tblout ./tmp/tabular/K18689 -T 0 --cpu 1 /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/profiles_curated/K18689.hmm ../../extracted_orfs/collected_orf_outputs/Zymomonas_mobilis_subsp._mobilis_str._CP4_NRRL_B-14023.faa 
+# Current dir:     /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/kofam_scan-1.3.0
+# Date:            Thu Nov  9 11:34:24 2023
+# [ok]
+
+K18690
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+NC_022900.1_ORF.530  -          K18690               -              0.073   11.9   0.0       0.1   11.4   0.0   1.2   1   0   0   1   1   1   0 [650958-651489](+) type:complete length:531 frame:1 start:CTG stop:TGA
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/profiles_curated/K18690.hmm
+# Target file:     ../../extracted_orfs/collected_orf_outputs/Zymomonas_mobilis_subsp._mobilis_str._CP4_NRRL_B-14023.faa
+# Option settings: hmmsearch -o /dev/null --tblout ./tmp/tabular/K18690 -T 0 --cpu 1 /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/profiles_curated/K18690.hmm ../../extracted_orfs/collected_orf_outputs/Zymomonas_mobilis_subsp._mobilis_str._CP4_NRRL_B-14023.faa 
+# Current dir:     /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/kofam_scan-1.3.0
+# Date:            Thu Nov  9 11:34:24 2023
+# [ok]
+
+K22813
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/profiles_curated/K22813.hmm
+# Target file:     ../../extracted_orfs/collected_orf_outputs/Zymomonas_mobilis_subsp._mobilis_str._CP4_NRRL_B-14023.faa
+# Option settings: hmmsearch -o /dev/null --tblout ./tmp/tabular/K22813 -T 0 --cpu 1 /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/profiles_curated/K22813.hmm ../../extracted_orfs/collected_orf_outputs/Zymomonas_mobilis_subsp._mobilis_str._CP4_NRRL_B-14023.faa 
+# Current dir:     /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/kofam_scan-1.3.0
+# Date:            Thu Nov  9 11:34:24 2023
+# [ok]
+
+K25035
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/profiles_curated/K25035.hmm
+# Target file:     ../../extracted_orfs/collected_orf_outputs/Zymomonas_mobilis_subsp._mobilis_str._CP4_NRRL_B-14023.faa
+# Option settings: hmmsearch -o /dev/null --tblout ./tmp/tabular/K25035 -T 0 --cpu 1 /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/profiles_curated/K25035.hmm ../../extracted_orfs/collected_orf_outputs/Zymomonas_mobilis_subsp._mobilis_str._CP4_NRRL_B-14023.faa 
+# Current dir:     /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/kofam_scan-1.3.0
+# Date:            Thu Nov  9 11:34:24 2023
+# [ok]
+
+K25517
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+NC_022900.1_ORF.5826 -          K25517               -              0.027   12.3   0.0     0.046   11.5   0.0   1.3   1   0   0   1   1   1   0 [834634-836902](-) type:complete length:2268 frame:-1 start:ATG stop:TAA
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/profiles_curated/K25517.hmm
+# Target file:     ../../extracted_orfs/collected_orf_outputs/Zymomonas_mobilis_subsp._mobilis_str._CP4_NRRL_B-14023.faa
+# Option settings: hmmsearch -o /dev/null --tblout ./tmp/tabular/K25517 -T 0 --cpu 1 /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/profiles_curated/K25517.hmm ../../extracted_orfs/collected_orf_outputs/Zymomonas_mobilis_subsp._mobilis_str._CP4_NRRL_B-14023.faa 
+# Current dir:     /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/kofam_scan-1.3.0
+# Date:            Thu Nov  9 11:34:24 2023
+# [ok]
+
+K25518
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/profiles_curated/K25518.hmm
+# Target file:     ../../extracted_orfs/collected_orf_outputs/Zymomonas_mobilis_subsp._mobilis_str._CP4_NRRL_B-14023.faa
+# Option settings: hmmsearch -o /dev/null --tblout ./tmp/tabular/K25518 -T 0 --cpu 1 /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/profiles_curated/K25518.hmm ../../extracted_orfs/collected_orf_outputs/Zymomonas_mobilis_subsp._mobilis_str._CP4_NRRL_B-14023.faa 
+# Current dir:     /mnt/scratch/marshall/comparative_genomics/github/evolutionary_flexibility/kofam/kofam_scan-1.3.0
+# Date:            Thu Nov  9 11:34:24 2023
+# [ok]
+
